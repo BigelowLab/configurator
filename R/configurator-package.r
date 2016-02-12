@@ -6,7 +6,7 @@
 #' @docType package
 #' @family CONFIGURATOR
 #' @examples \dontrun{
-#'   Cfg <- Configurator(system.file("extdata", "example.cfg", package = "configurator")
+#'   Cfg <- Configurator(system.file("extdata", "example.cfg", package = "configurator"))
 #'   Cfg
 #'   n_fleas <- Cfg$get("Bar", "fleas")
 #' }
