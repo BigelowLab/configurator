@@ -1,0 +1,14 @@
+Package: configurator
+Title: A package for simple configuration file handling.
+Description: A small set of tools for magaing configuration files, formatted
+    like INI files in Windows.  See
+    \url{http://effbot.org/librarybook/configparser.htm} and
+    \url{http://docs.python.org/release/2.6.8/library/configparser.html} for
+    inspiration.
+Version: 0.1
+Maintainer: Ben Tupper <btupper@bigelow.org>
+Author: Ben Tupper <btupper@bigelow.org>
+License: GPL (>= 2)
+Depends:
+    methods
+LazyData: true
